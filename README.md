@@ -1,2 +1,2 @@
 # Beejava
-Voltado a resolução de exercicios da plataforma Beecrowd utilizando à linguagem Java
+Voltado à resolução de exercícios da plataforma Beecrowd utilizando a linguagem Java.
